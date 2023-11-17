@@ -1,0 +1,7 @@
+{
+  "name": "mahjong-quiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
